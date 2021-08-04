@@ -1,0 +1,14 @@
+
+   /* color:red;*/
+   /* SELECTOR POR TAGNAME*/
+   header{
+       /*propiedad:valor;*/
+       background-color: #95c5cf;
+       margin: 15px 30px 45px 60px;
+       padding: 15px;
+       border: 5px dotted blue;
+       border-radius: 15px 5px 30px 25px;
+       /*border-radius: 20px;*/
+       text-align: center;
+
+   }
